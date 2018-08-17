@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/netavo_bg.qm</file>
+        <file alias="de">locale/netavo_de.qm</file>
+        <file alias="en">locale/netavo_en.qm</file>
+        <file alias="es">locale/netavo_es.qm</file>
+        <file alias="fi">locale/netavo_fi.qm</file>
+        <file alias="fr">locale/netavo_fr.qm</file>
+        <file alias="it">locale/netavo_it.qm</file>
+        <file alias="ja">locale/netavo_ja.qm</file>
+        <file alias="pl">locale/netavo_pl.qm</file>
+        <file alias="pt">locale/netavo_pt.qm</file>
+        <file alias="ru">locale/netavo_ru.qm</file>
+        <file alias="sk">locale/netavo_sk.qm</file>
+        <file alias="sv">locale/netavo_sv.qm</file>
+        <file alias="vi">locale/netavo_vi.qm</file>
+        <file alias="zh_CN">locale/netavo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/netavo_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/netavo-qt usr/bin
+share/pixmaps/netavo32.xpm usr/share/pixmaps
+share/pixmaps/netavo16.xpm usr/share/pixmaps
+share/pixmaps/netavo128.png usr/share/pixmaps
+debian/netavo-qt.desktop usr/share/applications
+debian/netavo-qt.protocol usr/share/kde4/services/

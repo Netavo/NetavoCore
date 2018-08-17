@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NETAVO
+Comment=NETAVO P2P Cryptocurrency
+Comment[fr]=NETAVO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=NETAVO, eşten eşe kriptografik sanal para birimi
+Exec=netavo-qt %u
+Terminal=false
+Type=Application
+Icon=netavo128
+MimeType=x-scheme-handler/netavo;
+Categories=Office;Finance;
